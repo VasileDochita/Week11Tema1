@@ -1,0 +1,6 @@
+C:\Users\Victor\source\repos\Week11Tema1\obj\Debug\Week11Tema1.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\Week11Tema1\bin\Debug\Week11Tema1.exe.config
+C:\Users\Victor\source\repos\Week11Tema1\bin\Debug\Week11Tema1.exe
+C:\Users\Victor\source\repos\Week11Tema1\bin\Debug\Week11Tema1.pdb
+C:\Users\Victor\source\repos\Week11Tema1\obj\Debug\Week11Tema1.exe
+C:\Users\Victor\source\repos\Week11Tema1\obj\Debug\Week11Tema1.pdb
